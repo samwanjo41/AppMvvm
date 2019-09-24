@@ -8,4 +8,7 @@
     <string name="description1">Description</string>
     <string name="save">SAVE</string>
     <string name="delete">DELETE</string>
+    <string name="clear_list">Clear List</string>
+    <string name="msg_clear_list">Are you sure you wish to clear list?</string>
+    <string name="clear_the_list">List Cleared</string>
 </resources>
