@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AppMv</string>
+    <string name="action_settings">Settings</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="todo">TODO</string>
+    <string name="title1">Title</string>
+    <string name="description1">Description</string>
+    <string name="save">SAVE</string>
+    <string name="delete">DELETE</string>
+</resources>
